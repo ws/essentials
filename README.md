@@ -40,3 +40,4 @@
 - [mackup](https://github.com/lra/mackup)
 - [dasel](https://github.com/TomWright/dasel)
 - [astx](https://github.com/codemodsquad/astx)
+- [pizauth](https://tratt.net/laurie/src/pizauth/)
